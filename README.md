@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Chitranjali 👋
 
-<!--
-**chitranjaliok-hub/chitranjaliok-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Aspiring Data Scientist with hands-on experience in Machine Learning, Data Analysis, and Generative AI.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills
+
+* Python, SQL, Tableau
+* Machine Learning (Regression, Classification, Clustering)
+* Data Analysis & Visualization (Pandas, Matplotlib, Seaborn, Tableau)
+* Generative AI & Prompt Engineering
+
+---
+
+## 📂 Projects
+
+🔹 [EasyVisa – Work Visa Approval Prediction](https://github.com/chitranjaliok-hub/easyvisa-ml-project)
+Machine Learning project using SMOTE and ensemble models to predict visa approvals.
+
+---
+
+## 🏆 Achievements
+
+* 🥈 2nd place in Data Science Hackathon
+
+---
+
+## 💼 Experience
+
+* Quality Analyst with experience in testing, problem-solving, and cross-functional collaboration
+
+---
+
+## 📫 Contact
+
+* LinkedIn: https://linkedin.com/in/chitranjali-ok
+* Email: [chitranjaliok@gmail.com](mailto:chitranjaliok@gmail.com)
