@@ -21,9 +21,11 @@
 
 👉 https://github.com/chitranjaliok-hub/easyvisa-ml-project
 
-* ML models: AdaBoost, Gradient Boosting
-* SMOTE for imbalanced data
-* Business insights for visa approval
+* Built classification models (AdaBoost, Gradient Boosting) to predict visa approval outcomes
+* Handled imbalanced dataset using SMOTE to improve model performance
+* Performed EDA, feature engineering, and hyperparameter tuning
+* Identified key factors influencing visa approval, enabling data-driven hiring decisions
+
 
 ---
 
@@ -31,11 +33,21 @@
 
 👉 https://github.com/chitranjaliok-hub/credit-card-customer-segmentation
 
-* K-Means & Hierarchical Clustering
-* Customer segmentation & profiling
-* Business recommendations
+* Performed customer segmentation using K-Means and Hierarchical Clustering
+* Applied scaling, Elbow method, and Silhouette score for optimal cluster selection
+* Identified 3 distinct customer segments based on spending and behavior patterns
+* Provided targeted marketing strategies to improve customer engagement and retention
 
 ---
+
+### 🔹 New Wheels – SQL Business Analysis
+
+👉 https://github.com/chitranjaliok-hub/sql-business-analysis-new-wheels
+
+* Conducted end-to-end SQL analysis using Joins, Aggregations, and Window Functions
+* Analyzed customer distribution, revenue trends, and quarterly performance metrics
+* Identified critical issues: ~50% revenue decline, increasing shipping delays, and rising negative feedback
+* Delivered actionable business recommendations to improve operations and customer satisfaction
 
 ## 🏆 Achievements
 
