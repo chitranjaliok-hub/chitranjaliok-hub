@@ -1,28 +1,34 @@
 # Hi, I'm Chitranjali 👋
 
-🎯 Aspiring Data Scientist with hands-on experience in Machine Learning, Data Analysis, and Generative AI.
+🎯 Aspiring Data Scientist passionate about solving real-world problems using Machine Learning, Data Analysis, and Generative AI.
 
 ---
 
-## 🚀 Skills
+## 🧠 Skills
 
-* Python, SQL, Tableau
-* Machine Learning (Regression, Classification, Clustering)
-* Data Analysis & Visualization (Pandas, Matplotlib, Seaborn, Tableau)
-* Generative AI & Prompt Engineering
+* **Programming:** Python, SQL
+* **Machine Learning:** Regression, Classification, Clustering, Ensemble Methods
+* **Data Analysis:** Pandas, NumPy, EDA, Statistics
+* **Visualization:** Matplotlib, Seaborn, Tableau
+* **Generative AI:** LLMs, Prompt Engineering
 
 ---
 
-## 📂 Projects
+## 🚀 Featured Project
 
-🔹 [EasyVisa – Work Visa Approval Prediction](https://github.com/chitranjaliok-hub/easyvisa-ml-project)
-Machine Learning project using SMOTE and ensemble models to predict visa approvals.
+🔹 **EasyVisa – Work Visa Approval Prediction**
+👉 https://github.com/chitranjaliok-hub/easyvisa-ml-project
+
+* Built ML models (AdaBoost, Gradient Boosting)
+* Handled imbalanced data using SMOTE
+* Performed EDA, feature engineering, and model tuning
+* Generated business insights for decision-making
 
 ---
 
 ## 🏆 Achievements
 
-* 🥈 2nd place in Data Science Hackathon
+* 🥈 Secured 2nd place in Data Science Hackathon
 
 ---
 
@@ -34,5 +40,5 @@ Machine Learning project using SMOTE and ensemble models to predict visa approva
 
 ## 📫 Contact
 
-* LinkedIn: https://linkedin.com/in/chitranjali-ok
+* LinkedIn: www.linkedin.com/in/chitranjali-krishnamoorthy-a7a64a57
 * Email: [chitranjaliok@gmail.com](mailto:chitranjaliok@gmail.com)
