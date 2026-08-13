@@ -49,6 +49,16 @@
 * Identified critical issues: ~50% revenue decline, increasing shipping delays, and rising negative feedback
 * Delivered actionable business recommendations to improve operations and customer satisfaction
 
+---
+
+### 🔹 Global Superstore – SQL Business Analysis
+
+👉 https://github.com/chitranjaliok-hub/Superstore-SQL-Analysis
+
+* Conducted end-to-end business analysis using MySQL across sales, profitability, customer behavior, and regional performance
+* Used SQL techniques including CTEs, aggregations, window functions, date functions, and analytical queries
+* Identified key business drivers including high-performing categories, customers, regions, and the impact of discounting on profitability
+* Delivered data-driven business recommendations to improve profitability, customer strategy, and regional performance
 ## 🏆 Achievements
 
 * 🥈 2nd place in Data Science & ML Hackathon
