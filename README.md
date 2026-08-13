@@ -1,6 +1,6 @@
 # Hi, I'm Chitranjali 👋
 
-🎯 Aspiring Data Scientist | Machine Learning | Data Analysis | Generative AI
+🎯 Aspiring Data Analyst | Data Scientist | Machine Learning | Data Analysis | Generative AI
 
 ---
 
