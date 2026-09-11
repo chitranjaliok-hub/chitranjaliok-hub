@@ -1,6 +1,6 @@
 # Hi, I'm Chitranjali 👋
 
-🎯 Aspiring Data Analyst | Data Scientist | Machine Learning | Data Analysis | Generative AI
+🎯 Aspiring Data Analyst | Data Scientist | Python | SQL | Tableau | Machine Learning | Generative AI
 
 ---
 
@@ -62,6 +62,16 @@
 ## 🏆 Achievements
 
 * 🥈 2nd place in Data Science & ML Hackathon
+
+---
+### 🔹 Superstore Sales & Profitability Analysis — Tableau ⭐
+
+👉 https://github.com/chitranjaliok-hub/Superstore-Advanced-Analysis
+
+* Built a five-dashboard Tableau BI solution analyzing sales, profitability, discount impact, regional performance, and customer behavior
+* Developed RFM customer segmentation using LOD expressions and percentile-based scoring to classify customers into Champions, Loyal Customers, Potential Loyalists, At Risk, and Lost Customers
+* Built an interactive discount scenario simulator using parameters and calculated fields to evaluate potential profitability changes under different discount levels
+* Applied advanced Tableau techniques including LOD expressions, table calculations, dynamic metric selection, filter actions, and what-if analysis
 
 ---
 
