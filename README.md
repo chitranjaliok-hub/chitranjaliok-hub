@@ -59,9 +59,6 @@
 * Used SQL techniques including CTEs, aggregations, window functions, date functions, and analytical queries
 * Identified key business drivers including high-performing categories, customers, regions, and the impact of discounting on profitability
 * Delivered data-driven business recommendations to improve profitability, customer strategy, and regional performance
-## 🏆 Achievements
-
-* 🥈 2nd place in Data Science & ML Hackathon
 
 ---
 ### 🔹 Superstore Sales & Profitability Analysis — Tableau ⭐
@@ -75,6 +72,9 @@
 
 ---
 
+## 🏆 Achievements
+
+* 🥈 2nd place in Data Science & ML Hackathon
 ## 💼 Experience
 
 * Quality Analyst with strong problem-solving and analytical skills
