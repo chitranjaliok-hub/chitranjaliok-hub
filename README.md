@@ -38,12 +38,6 @@
 * Built an interactive discount scenario simulator using parameters and calculated fields
 * Applied dashboard actions, table calculations, dual-axis charts, trend analysis, Pareto analysis, and geographic visualization
 
-#### 🔹 Car Claim Insurance – Risk & Claims Dashboard
-
-* Designed an interactive Tableau dashboard to analyze insurance claims and identify high-risk customer segments
-* Visualized claim patterns across demographics, car type, and coverage categories
-* Built KPI cards, filters, and drill-down views for interactive business analysis
-
 ---
 
 ### 🗄️ SQL & Data Analysis
@@ -89,13 +83,6 @@
 * Applied SMOTE and undersampling to handle class imbalance
 * Performed EDA, feature engineering, and hyperparameter tuning
 * Identified key factors influencing visa approval
-
-#### 🔹 INN Hotels – Booking Cancellation Prediction
-
-* Developed machine learning models to predict hotel booking cancellations
-* Compared Logistic Regression and Decision Tree models
-* Evaluated models using Precision, Recall, and F1-score
-* Identified key cancellation drivers through feature analysis
 
 #### 🔹 Credit Card Customer Segmentation
 
