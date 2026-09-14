@@ -1,87 +1,76 @@
-# Hi, I'm Chitranjali 👋
-
-🎯 Aspiring Data Analyst | Data Scientist | Python | SQL | Tableau | Machine Learning | Generative AI
-
----
-
-## 🧠 Skills
-
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge\&logo=python)
-![SQL](https://img.shields.io/badge/SQL-orange?style=for-the-badge\&logo=mysql)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-green?style=for-the-badge)
-![Tableau](https://img.shields.io/badge/Tableau-blue?style=for-the-badge)
-![Pandas](https://img.shields.io/badge/Pandas-black?style=for-the-badge\&logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-blue?style=for-the-badge\&logo=numpy)
-
----
-
 ## 🚀 Projects
 
-### 🔹 EasyVisa – Work Visa Approval Prediction
+### 📊 Tableau & Business Intelligence
 
-👉 https://github.com/chitranjaliok-hub/easyvisa-ml-project
-
-* Built classification models (AdaBoost, Gradient Boosting) to predict visa approval outcomes
-* Handled imbalanced dataset using SMOTE to improve model performance
-* Performed EDA, feature engineering, and hyperparameter tuning
-* Identified key factors influencing visa approval, enabling data-driven hiring decisions
-
-
----
-
-### 🔹 Credit Card Customer Segmentation
-
-👉 https://github.com/chitranjaliok-hub/credit-card-customer-segmentation
-
-* Performed customer segmentation using K-Means and Hierarchical Clustering
-* Applied scaling, Elbow method, and Silhouette score for optimal cluster selection
-* Identified 3 distinct customer segments based on spending and behavior patterns
-* Provided targeted marketing strategies to improve customer engagement and retention
-
----
-
-### 🔹 New Wheels – SQL Business Analysis
-
-👉 https://github.com/chitranjaliok-hub/sql-business-analysis-new-wheels
-
-* Conducted end-to-end SQL analysis using Joins, Aggregations, and Window Functions
-* Analyzed customer distribution, revenue trends, and quarterly performance metrics
-* Identified critical issues: ~50% revenue decline, increasing shipping delays, and rising negative feedback
-* Delivered actionable business recommendations to improve operations and customer satisfaction
-
----
-
-### 🔹 Global Superstore – SQL Business Analysis
-
-👉 https://github.com/chitranjaliok-hub/Superstore-SQL-Analysis
-
-* Conducted end-to-end business analysis using MySQL across sales, profitability, customer behavior, and regional performance
-* Used SQL techniques including CTEs, aggregations, window functions, date functions, and analytical queries
-* Identified key business drivers including high-performing categories, customers, regions, and the impact of discounting on profitability
-* Delivered data-driven business recommendations to improve profitability, customer strategy, and regional performance
-
----
-### 🔹 Superstore Sales & Profitability Analysis — Tableau ⭐
-
+#### 🔹 Superstore Sales & Profitability Analysis
 👉 https://github.com/chitranjaliok-hub/Superstore-Advanced-Analysis
 
 * Built a five-dashboard Tableau BI solution analyzing sales, profitability, discount impact, regional performance, and customer behavior
-* Developed RFM customer segmentation using LOD expressions and percentile-based scoring to classify customers into Champions, Loyal Customers, Potential Loyalists, At Risk, and Lost Customers
-* Built an interactive discount scenario simulator using parameters and calculated fields to evaluate potential profitability changes under different discount levels
-* Applied advanced Tableau techniques including LOD expressions, table calculations, dynamic metric selection, filter actions, and what-if analysis
+* Developed RFM customer segmentation using LOD expressions and percentile-based scoring
+* Built an interactive discount scenario simulator using parameters and calculated fields to evaluate profitability under different discount levels
+* Applied dashboard actions, table calculations, dual-axis charts, trend analysis, Pareto analysis, and geographic visualization
+
+#### 🔹 Car Claim Insurance – Risk & Claims Dashboard
+👉 https://github.com/chitranjaliok-hub/your-car-claim-repository
+
+* Designed an interactive Tableau dashboard to analyze insurance claims and identify high-risk customer segments
+* Visualized claim patterns across demographics, car type, and coverage categories
+* Built KPI cards, filters, and drill-down views for interactive business analysis
 
 ---
 
-## 🏆 Achievements
+### 🗄️ SQL & Data Analysis
 
-* 🥈 2nd place in Data Science & ML Hackathon
-## 💼 Experience
+#### 🔹 Global Superstore – SQL Business Analysis
+👉 https://github.com/chitranjaliok-hub/Superstore-SQL-Analysis
 
-* Quality Analyst with strong problem-solving and analytical skills
+* Conducted end-to-end business analysis using MySQL across sales, profitability, customer behavior, and regional performance
+* Used CTEs, aggregations, window functions, date functions, joins, and analytical queries
+* Identified key business drivers across categories, customers, states, regions, and discounting
+* Delivered data-driven recommendations to improve profitability and customer strategy
+
+#### 🔹 New Wheels – Vehicle Sales Insights
+👉 https://github.com/chitranjaliok-hub/sql-business-analysis-new-wheels
+
+* Conducted SQL-based business analysis of vehicle sales data
+* Used JOINs, aggregations, subqueries, and window functions to analyze business performance
+* Identified revenue trends, customer behavior, and quarterly performance
+* Developed actionable recommendations based on the analysis
 
 ---
 
-## 📫 Contact
+### 🤖 Machine Learning
 
-* LinkedIn: https://www.linkedin.com/in/chitranjali-krishnamoorthy-a7a64a57/
-* Email: [chitranjaliok@gmail.com](mailto:chitranjaliok@gmail.com)
+#### 🔹 AlphaCom – Customer Churn Prediction | Capstone Project
+👉 https://github.com/chitranjaliok-hub/AlphaCom-Customer-Churn-Prediction
+
+* Built an end-to-end binary classification pipeline to predict telecom customer churn using 12,055 customer records
+* Handled class imbalance using SMOTE and Random Undersampling and selected Recall as the primary metric
+* Compared Decision Tree, Random Forest, AdaBoost, Gradient Boosting, and XGBoost models across different sampling strategies
+* Performed GridSearchCV hyperparameter tuning and probability threshold optimization
+* Selected AdaBoost + Undersampling with 78% Recall and 0.845 ROC-AUC as the final model
+* Identified key churn drivers and developed targeted customer retention recommendations
+
+#### 🔹 EasyVisa – Work Visa Approval Prediction
+👉 https://github.com/chitranjaliok-hub/easyvisa-ml-project
+
+* Built classification models to predict US work visa approval outcomes
+* Applied SMOTE and undersampling to handle class imbalance
+* Performed EDA, feature engineering, and hyperparameter tuning
+* Identified key factors influencing visa approval
+
+#### 🔹 INN Hotels – Booking Cancellation Prediction
+👉 https://github.com/chitranjaliok-hub/inn-hotels-booking-cancellation
+
+* Developed machine learning models to predict hotel booking cancellations
+* Compared Logistic Regression and Decision Tree models
+* Evaluated models using classification metrics including Precision, Recall, and F1-score
+* Identified key cancellation drivers through feature analysis
+
+#### 🔹 Credit Card Customer Segmentation
+👉 https://github.com/chitranjaliok-hub/credit-card-customer-segmentation
+
+* Performed customer segmentation using K-Means and Hierarchical Clustering
+* Used feature scaling, Elbow method, and Silhouette score for cluster selection
+* Identified distinct customer segments based on spending and behavioral patterns
+* Developed targeted marketing recommendations for customer segments
