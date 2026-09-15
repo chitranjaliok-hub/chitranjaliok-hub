@@ -90,7 +90,7 @@
 
 * Performed customer segmentation using K-Means and Hierarchical Clustering
 * Used feature scaling, Elbow method, and Silhouette score for cluster selection
-* Identified distinct customer segments based on spending and behavioral patterns
+* Identified distinct customer segments based on spending patterns and past interactions with the bank
 * Developed targeted marketing recommendations for customer segments
 
 ---
