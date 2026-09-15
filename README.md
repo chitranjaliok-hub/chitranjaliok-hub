@@ -97,7 +97,7 @@
 
 ## 🏆 Achievements
 
-* 🥈 **2nd place in Data Science & ML Hackathon**
+* 🥈 **2nd place in Data Science Hackathon**
 
 ---
 
