@@ -106,6 +106,19 @@
 
 ---
 
+### 🤖 Generative AI & Emerging Technologies
+
+#### 🔹 AI Business Research Agent – Chettinad CodeFest 2026
+
+👉 https://github.com/chitranjaliok-hub/AI-Business-Research-Agent
+
+- Explored Agentic AI concepts through an institute-level hackathon
+- Developed an AI-assisted workflow for business discovery, information collection, extraction, and research summarization
+- Explored Python, MySQL, web information extraction, and LLM API integration while developing the project
+- Gained hands-on exposure to AI agent workflows and the challenges of building scalable AI-assisted research systems
+  
+---
+
 ## 🏆 Achievements
 
 * 🥈 **2nd place in Data Science Hackathon**
