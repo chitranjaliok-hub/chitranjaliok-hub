@@ -75,6 +75,17 @@
 * Selected AdaBoost + Undersampling with 78% Recall and 0.845 ROC-AUC as the final model
 * Identified key churn drivers and developed targeted customer retention recommendations
 
+#### 🔹 Shinkansen Travel Experience – Data Science Hackathon 🥈
+
+👉 https://github.com/chitranjaliok-hub/Shinkansen-Travel-Experience
+
+- Secured **2nd place** in an institute-level Data Science hackathon
+- Built a machine learning classification solution to predict passenger satisfaction with Shinkansen travel
+- Performed data preprocessing, feature engineering, and exploratory analysis on passenger travel and survey data
+- Compared Logistic Regression, Decision Tree, Random Forest, XGBoost, CatBoost, and Stacking models
+- Applied hyperparameter tuning and ensemble techniques to improve model performance
+- Achieved approximately **95.9% validation/test accuracy** on the final solution
+
 #### 🔹 EasyVisa – Work Visa Approval Prediction
 
 👉 https://github.com/chitranjaliok-hub/easyvisa-ml-project
