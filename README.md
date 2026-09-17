@@ -90,10 +90,10 @@
 
 👉 https://github.com/chitranjaliok-hub/easyvisa-ml-project
 
-* Built classification models to predict US work visa approval outcomes
-* Applied SMOTE and undersampling to handle class imbalance
-* Performed EDA, feature engineering, and hyperparameter tuning
-* Identified key factors influencing visa approval
+- Built classification models to predict US work visa approval outcomes
+- Performed data cleaning, EDA, feature engineering, and class-imbalance handling using SMOTE and undersampling
+- Compared Decision Tree, Random Forest, AdaBoost, and Gradient Boosting models
+- Performed hyperparameter tuning and evaluated models using Accuracy, Precision, Recall, and F1-score
 
 #### 🔹 Credit Card Customer Segmentation
 
